@@ -1,4 +1,4 @@
-# Daily-Journal
+# News-letter-signup app
 > Welcome to our project! This is a News-letter-signup app made in Node.js and Express.js framework. It is a web app where user can signup for news-letters. The aim of creatinig this project was to learn how to make news-letter-signup web app.
 > Live demo [_here_](https://email-signup.cyclic.app). <!-- If you have the project hosted somewhere, include the link here. -->
 
